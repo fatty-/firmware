@@ -1,6 +1,6 @@
 ## RT-AC68U_380.59_beta2-X6.6.0.trx
 #### [发布链接](http://koolshare.cn/thread-44462-1-1.html)
-#### MD5SUM: 8535712eeffb6baee258685e4a8323c6
+#### MD5SUM: 3b4819a6df1e8a5bcaaa7487fe5f4b73
 
 * * *
 ### 固件主要特色：
