@@ -6,5 +6,6 @@
 
 * [固件下载镜像](https://koolshare.io)
 * [Github地址](https://github.com/koolshare/firmware)
+* [交流市区](https://koolshare.cn/forum.php)
 * [贡献名单详情](https://github.com/koolshare/koolshare.github.io/tree/master/donate)
 
