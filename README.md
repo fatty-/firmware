@@ -4,4 +4,5 @@
 
 微信扫码，捐赠我们
 
-测试中
+* [贡献名单详情](https://github.com/koolshare/koolshare.github.io/tree/master/donate)
+
