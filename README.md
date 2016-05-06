@@ -4,6 +4,7 @@
 
 微信扫码，捐赠我们
 
-* [贡献名单详情](https://github.com/koolshare/koolshare.github.io/tree/master/donate)
 * [固件下载镜像](https://koolshare.io)
+* [Github地址](https://github.com/koolshare/firmware)
+* [贡献名单详情](https://github.com/koolshare/koolshare.github.io/tree/master/donate)
 
