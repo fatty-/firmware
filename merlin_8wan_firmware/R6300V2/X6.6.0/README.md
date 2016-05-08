@@ -1,5 +1,5 @@
 ## R6300V2_380.59_beta2-X6.6.0.trx
-#### [发布链接]()
+#### [发布链接](http://koolshare.cn/thread-44661-1-1.html)
  
 ##### File: R6300V2_380.59_beta2-X6.6.0.trx
 ##### Size: 32153600 bytes
