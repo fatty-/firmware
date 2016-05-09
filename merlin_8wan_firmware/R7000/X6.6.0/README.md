@@ -1,6 +1,6 @@
 ## R7000_380.59_beta2-X6.6.0.trx
-#### [发布链接]()
-#### MD5SUM: 
+#### [发布链接](http://koolshare.cn/thread-44665-1-1.html)
+#### MD5SUM: F8BF1131EC7A12C2DE65BE5D6E3E3FFA
 
 * * *
 ### 固件主要特色：
