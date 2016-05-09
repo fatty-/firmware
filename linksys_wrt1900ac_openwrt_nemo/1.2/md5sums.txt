@@ -1,0 +1,7 @@
+c7dd880ee2deb556aa89b4fa22339eaf *openwrt-15.05.Nemo.1.2-mvebu-armada-385-linksys-caiman-squashfs-factory.img
+7620c6bd50707725d39c2c57ff538768 *openwrt-15.05.Nemo.1.2-mvebu-armada-385-linksys-caiman-squashfs-sysupgrade.tar
+eb9e8b6eeddcbf1f77fbf5add11534ea *openwrt-15.05.Nemo.1.2-mvebu-armada-385-linksys-cobra-squashfs-factory.img
+4807d1add3b5ea7db0bc1e4f7d0a5838 *openwrt-15.05.Nemo.1.2-mvebu-armada-385-linksys-cobra-squashfs-sysupgrade.tar
+e443f10df74ba8697e235636e65b5986 *openwrt-15.05.Nemo.1.2-mvebu-armada-xp-linksys-mamba-squashfs-factory.img
+f710f0b9bf3be702bbf29792ab772f4f *openwrt-15.05.Nemo.1.2-mvebu-armada-xp-linksys-mamba-squashfs-sysupgrade.tar
+3ff4604e4b652557fe7c5624d39f947c *sha256sums
