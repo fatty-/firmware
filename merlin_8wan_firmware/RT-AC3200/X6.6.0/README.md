@@ -1,6 +1,6 @@
 ## RT-AC3200_380.59_beta2-X6.6.0.trx
-#### [发布链接]()
-#### MD5SUM: 
+#### [发布链接](http://koolshare.cn/thread-44709-1-1.html)
+#### MD5SUM:  806E6F87612A2A8F41A8D92D1B19BE65
 
 * * *
 ### 固件主要特色：
