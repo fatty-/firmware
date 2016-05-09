@@ -1,6 +1,6 @@
 ## RT-AC87U_380.59_beta2-X6.6.0.trx
-#### [发布链接]()
-#### MD5SUM: 
+#### [发布链接](http://koolshare.cn/thread-44708-1-1.html)
+#### MD5SUM: 6AA4395459BDC00EDA88591F0C252258
 
 * * *
 ### 固件主要特色：
