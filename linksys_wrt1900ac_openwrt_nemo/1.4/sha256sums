@@ -1,0 +1,9 @@
+SHA256(openwrt-15.05.1.Nemo.1.4-mvebu-armada-385-linksys-caiman-squashfs-factory.img)= aa2e872d21a7fef232540e730e8ed07f73ce6d287300edc81bac346d34c31387
+SHA256(openwrt-15.05.1.Nemo.1.4-mvebu-armada-385-linksys-caiman-squashfs-sysupgrade.tar)= 355692a9b791888cc02847b3f25b8c45b08833caaf631eced3a02ab3720b2b6c
+SHA256(openwrt-15.05.1.Nemo.1.4-mvebu-armada-385-linksys-cobra-squashfs-factory.img)= b661097cb78a9cc692c213ee9b70cc2861a3168f3517bbfbb663dcdd7b971cf5
+SHA256(openwrt-15.05.1.Nemo.1.4-mvebu-armada-385-linksys-cobra-squashfs-sysupgrade.tar)= 0e631bd18687b6cbb5ba153a14bb1af2a869455a6d3ec7e422097d1a7041887f
+SHA256(openwrt-15.05.1.Nemo.1.4-mvebu-armada-385-linksys-shelby-squashfs-factory.img)= 264cedea3802c43964858ebd19043bcdf787513501b85e0ac8542dab549c29f8
+SHA256(openwrt-15.05.1.Nemo.1.4-mvebu-armada-385-linksys-shelby-squashfs-sysupgrade.tar)= fa75657ebe567220ba33d71e87d24b240c9a1d01d5e9deb366d34d843893f076
+SHA256(openwrt-15.05.1.Nemo.1.4-mvebu-armada-xp-linksys-mamba-squashfs-factory.img)= 4224b30d60913609dc13421593d8053617fec1f79ef532c8f4d7dc173106c0e3
+SHA256(openwrt-15.05.1.Nemo.1.4-mvebu-armada-xp-linksys-mamba-squashfs-sysupgrade.tar)= 9e38c3ba0560d8c35d02c28014e76ed9c8044223c3568cb33edcea7eb53ffc9d
+SHA256(sha256sums)= e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
