@@ -18,3 +18,8 @@ koolshare openwrt X64
 ## 技术支持
 
 论坛链接：<http://www.koolshare.cn> 
+
+## 最近更新 2016-08-13
+
+* 加入更多网卡支持，虚拟机支持
+* md5sum caa82a35d3bf663c4e3f1793f3a307de
