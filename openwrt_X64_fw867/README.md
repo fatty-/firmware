@@ -12,7 +12,7 @@ koolshare openwrt X64
 
 ## 安装方法
 
-    下载后使用winrar、7zip等解压缩，然后使用ImageWriter等工具直接将img写入U盘或者硬盘
+    下载后使用winrar、7zip等解压缩，然后使用ImageWriter等工具直接将img写入U盘或者硬盘,squashfs版可在openwrt界面中直接升级。
     如果原来已经刷过openwrt系统，可将openwrt-x86-64-combined-ext4.img上传到tmp,然后使用命令： dd if=/tmp/openwrt-x86-64-combined-ext4.img of=/dev/sda写入。此命令将会清除原盘所有数据和分区，请注意备份。
 
 ## 技术支持
@@ -22,4 +22,5 @@ koolshare openwrt X64
 ## 最近更新 2016-08-13
 
 * 加入更多网卡支持，虚拟机支持
-* md5sum caa82a35d3bf663c4e3f1793f3a307de
+* 0827ade9ff01227bbab895b77f7642f5 *openwrt-x86-64-combined-ext4.img.gz
+* 5bd47fa076d81fc8f38f6372d34ecb28 *openwrt-x86-64-combined-squashfs.img
