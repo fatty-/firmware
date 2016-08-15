@@ -17,10 +17,11 @@ koolshare openwrt X64
     默认WEB 192.168.1.1 用户名 root 密码 admin
 ## 技术支持
 
-论坛链接：<http://www.koolshare.cn> 
+BUG反馈：<http://koolshare.cn/forum-80-1.html> 
 
 ## 最近更新 2016-08-13
+    d77d408f9c71ef0b9ca3913db7e6202f *openwrt-x86-64-combined-ext4.img
+    8cd6ccb2f5055cc5adb2f821f037aa3c *openwrt-x86-64-combined-squashfs.img
 
-* 加入更多网卡支持，虚拟机支持
-* 0827ade9ff01227bbab895b77f7642f5 *openwrt-x86-64-combined-ext4.img.gz
-* 5bd47fa076d81fc8f38f6372d34ecb28 *openwrt-x86-64-combined-squashfs.img
+* 修复单线多拨、SSR设置和白名单问题
+
