@@ -20,8 +20,9 @@ koolshare openwrt X64
 BUG反馈：<http://koolshare.cn/forum-80-1.html>  （没有反馈就没有完善）
 
 ## 最近更新 2016-08-15 
-    d77d408f9c71ef0b9ca3913db7e6202f *openwrt-x86-64-combined-ext4.img
-    8cd6ccb2f5055cc5adb2f821f037aa3c *openwrt-x86-64-combined-squashfs.img
+    d882ffea6ce666b97ca250e228661863 *openwrt-x86-64-combined-ext4.img
+    0e80837e3445dfada00fa6108976d987 *openwrt-x86-64-combined-squashfs.img
+
 
 * 修复单线多拨、SSR设置和白名单问题 （感谢小伙伴的反馈）
 
