@@ -17,7 +17,7 @@ koolshare openwrt X64
     默认WEB 192.168.1.1 用户名 root 密码 admin
 ## 技术支持
 
-BUG反馈：<http://koolshare.cn/forum-80-1.html>  （没有反馈就没有完善）
+BUG反馈：<http://koolshare.cn/forum-80-1.html>  （没有反馈就没有完善）   QQ交流群：103366563
 
 ## 最近更新 2016-08-15 
     d882ffea6ce666b97ca250e228661863 *openwrt-x86-64-combined-ext4.img
