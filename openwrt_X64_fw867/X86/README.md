@@ -1,4 +1,4 @@
-koolshare openwrt X64  
+koolshare openwrt X86  
 ===================================
 
 ## 固件特性
