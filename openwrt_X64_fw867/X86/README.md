@@ -19,7 +19,7 @@ koolshare openwrt X64
 
 BUG反馈：<http://koolshare.cn/forum-80-1.html>  （没有反馈就没有完善）   QQ交流群：103366563 <http://shang.qq.com/wpa/qunwpa?idkey=9689c491e45fdb982da6dd5dc7bb7c8dbeba427e358e289103b26fd43ca77ad0>
 
-## 最近更新 2016-08-16 
+## 最近更新 2016-08-30 
     10ec2f6d4afa46c3914eae3bd0229940 *openwrt-x86-generic-combined-ext4.img
     e6985c520c9723936aa69690027e0744 *openwrt-x86-generic-combined-squashfs.img
 
