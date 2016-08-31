@@ -14,7 +14,7 @@ koolshare openwrt X86
 
     下载后使用winrar、7zip等解压缩，然后使用ImageWriter等工具直接将img写入U盘或者硬盘,squashfs版可在openwrt界面中直接升级。
     如果原来已经刷过openwrt系统，可将openwrt-x86-combined-ext4.img上传到tmp,然后使用命令： dd if=/tmp/openwrt-x86-combined-ext4.img of=/dev/sda写入。此命令将会清除原盘所有数据和分区，请注意备份。
-    默认WEB 192.168.1.1 用户名 root 密码 admin
+    默认WEB 192.168.1.1 用户名 root 密码 koolshare
 ## 技术支持
 
 BUG反馈：<http://koolshare.cn/forum-80-1.html>  （没有反馈就没有完善）   QQ交流群：103366563 <http://shang.qq.com/wpa/qunwpa?idkey=9689c491e45fdb982da6dd5dc7bb7c8dbeba427e358e289103b26fd43ca77ad0>
