@@ -27,6 +27,10 @@
 * 刷机后一定格式化一次jffs分区，进入[http://router.asus.com/Advanced_System_Content.asp](http://router.asus.com/Advanced_System_Content.asp)此页面，勾选Format JFFS partition at next boot，然后点击应用本页面设置，待设置保存后，重启路由器；
 * 格式化jffs分区后请确保[http://router.asus.com/Advanced_System_Content.asp](http://router.asus.com/Advanced_System_Content.asp)此页面的 Enable JFFS custom scripts and configs勾选是.
 
+* 此版本超频命令（频率根据实际情况设置）：
+nvram set clkfreq=1200,800
+nvram commit
+reboot
 
 注意：此版本无线专业设置不可用，但是不影响使用，等待修复
 
