@@ -16,7 +16,7 @@
 ### 更新日志：
 1. 固件本身的更新日志，主要参考Votex更新日志，版本号基于merlin 380.61
 2. 本次固件和以往固件不同，网件机型使用了基于V大的代码重做了R7000,并由8万大神重新移植了R6300V2，网件的机型无线部分完全沿用v大的移植
-3. 合并了koolshare坛友thesadboy的修改梅林首页增加部分系统信息页面，http://koolshare.cn/thread-61065-1-1.html
+3. 合并了koolshare坛友thesadboy的修改梅林首页增加部分系统信息页面，http://koolshare.cn/thread-61065-1-1.html，在此感谢thesadboy
 4. 修复了httpd文件上传的一个bug，修复后webshell上传文件和软件中心离线安装能正常使用
 5. arm机型使用内置最新$$，和软件中心
 6. $$侧边栏入口默认关闭
