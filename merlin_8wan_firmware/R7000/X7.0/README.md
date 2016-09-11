@@ -20,11 +20,13 @@
 4. 修复了httpd文件上传的一个bug，修复后webshell上传文件和软件中心离线安装能正常使用
 5. arm机型使用内置最新$$，和软件中心
 6. $$侧边栏入口默认关闭
-7. 我们选用了梅林的 59 版本。
-8. 增加了htop作为任务管理器（可以在ssh，telnet客户端使用，不能在webshell中使用）
+7. 增加了htop作为任务管理器（可以在ssh，telnet客户端使用，不能在webshell中使用）
 
 ### 刷机须知：
 * 刷机有风险，刷机前请做好准备，如果刷机变砖，华硕机型可以使用救援模式救砖，网件机型可以使用[http://koolshare.cn/thread-63587-1-1.html](http://koolshare.cn/thread-63587-1-1.html)此贴的方法救砖；
 * 刷机后一定格式化一次jffs分区，进入[http://router.asus.com/Advanced_System_Content.asp](http://router.asus.com/Advanced_System_Content.asp)此页面，勾选Format JFFS partition at next boot，然后点击应用本页面设置，待设置保存后，重启路由器；
 * 格式化jffs分区后请确保[http://router.asus.com/Advanced_System_Content.asp](http://router.asus.com/Advanced_System_Content.asp)此页面的 Enable JFFS custom scripts and configs勾选是.
+
+
+注意：此版本无线专业设置不可用，但是不影响使用，等待修复
 
