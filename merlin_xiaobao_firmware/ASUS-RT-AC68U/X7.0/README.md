@@ -16,7 +16,7 @@
 ### 更新日志(RT-AC68U)：
 1. 固件本身的更新日志，主要参考Votex更新日志，Rmerlin的更新日志，固件版本号基于merlin 380.61
 2. 和网件机型不同的是，华硕固件侧边栏的一级菜单并没有减少内容，还是原来的配方，还是熟悉的味道~华硕毕竟亲儿子嘛~
-3. 合并了koolshare坛友thesadboy的修改梅林首页增加部分系统信息页面，http://koolshare.cn/thread-61065-1-1.html，在此感谢thesadboy
+3. 合并了koolshare坛友thesadboy的修改梅林首页增加部分系统信息页面，[http://koolshare.cn/thread-61065-1-1.html](http://koolshare.cn/thread-61065-1-1.html)，在此感谢thesadboy
 4. 修复了httpd文件上传的一个bug，修复后webshell上传文件和软件中心离线安装能正常使用
 5. arm机型使用内置最新$$，和软件中心；软件中心更新到最新版本后，可以配合7.0固件对插件进行离线安装，当然可以用来方便额回顾$$；
 6. $$侧边栏入口默认关闭，现在默认$$的入口在软件中心，如果需要开启侧边栏显示，请在$$的附加设置页面进行设置；
