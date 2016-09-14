@@ -1,12 +1,12 @@
-## R7000_380.61-X7.0.trx
-#### [发布链接](http://koolshare.cn/thread-44661-1-1.html)
+## RT-AC68U_380.61_X7.0.trx
+#### 
  
-##### File: R7000_380.61_X7.0.trx
-##### Size: 31715328 字节
-##### Modified: 2016年9月11日, 17:03:00
-##### MD5: 9563AFCA8E8A9C22B029C90B18D642B3
-##### SHA1: 15209C9092F4BAC4E44086D4968F3CE9CB3B5D11
-##### CRC32: 107D8A02
+##### File: RT-AC68U_380.61_X7.0.trx
+##### Size: 
+##### Modified: 
+##### MD5: 
+##### SHA1: 
+##### CRC32: 
 
 * * *
 ### 说明
