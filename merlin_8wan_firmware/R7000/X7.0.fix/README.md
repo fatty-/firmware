@@ -25,9 +25,9 @@
 * 刷机后强烈建议恢复出厂设置一次，可以避免很多小问题，比如无线功率调节问题
 
 * 此版本超频命令（频率根据实际情况设置）：
-nvram set clkfreq=1200,800
-nvram commit
-reboot
+###### nvram set clkfreq=1200,800
+###### nvram commit
+###### reboot
 
 
 
