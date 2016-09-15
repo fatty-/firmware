@@ -11,3 +11,5 @@
 * [交流社区](https://koolshare.cn/forum.php)
 * [贡献名单详情](https://github.com/koolshare/koolshare.github.io/tree/master/donate)
 
+欢迎加入koolsahre改版固件讨论群，固件发布，中秋期间开群三天，群qq号码：438983449
+
