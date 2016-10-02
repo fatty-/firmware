@@ -7,3 +7,5 @@
 编译平台：arm
 
 适用机型：arm merlin
+
+性能测试：https://youtu.be/-xGa92UpiD0
