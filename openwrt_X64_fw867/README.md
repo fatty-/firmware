@@ -20,8 +20,9 @@ koolshare openwrt X64
 BUG反馈：<http://koolshare.cn/forum-80-1.html>  （没有反馈就没有完善）   未来将转向LEDE,优先内测体验QQ交流群：103366563 <http://shang.qq.com/wpa/qunwpa?idkey=9689c491e45fdb982da6dd5dc7bb7c8dbeba427e358e289103b26fd43ca77ad0>
 
 ## 最近更新 2016-10-04
-       5d522d9740ebba0a860b5d36ac79852b8bc78b793e8e06740fc09a3e49157020 *lede-x86-64-combined-squashfs.img.gz
-       0c1adbf0e990ebf36fdb17e69bc7553d6bb4accd03085b1a01e1fdcbb40b60eb *lede-x86-64-combined-squashfs.vmdk
+       55560dbefc2551678d2810b9a486d38ae562c3d4a5e0a17930e66d70eba42da4 *lede-x86-64-combined-squashfs-V64.1.8-R1(可以直接升级或者转盘).img.gz
+       5c7653d06d2dbae653c505c72ab9da28fd90b114534da89869e4d32983f2ebc5 *lede-x86-64-combined-squashfs-V64.1.8-R1(适用于虚拟机).vmdk
+
 
 * 主题配色及兼容性优化
 * S*S增加负载均衡、自动更新规则、连接状态显示
