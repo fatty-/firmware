@@ -19,9 +19,8 @@ koolshare openwrt X64
 
 BUG反馈：<http://koolshare.cn/forum-80-1.html>  （没有反馈就没有完善）   未来将转向LEDE,优先内测体验QQ交流群：103366563 <http://shang.qq.com/wpa/qunwpa?idkey=9689c491e45fdb982da6dd5dc7bb7c8dbeba427e358e289103b26fd43ca77ad0>
 
-## 最近更新 2016-10-04
-       55560dbefc2551678d2810b9a486d38ae562c3d4a5e0a17930e66d70eba42da4 *lede-x86-64-combined-squashfs-V64.1.8-R1(可以直接升级或者转盘).img.gz
-       5c7653d06d2dbae653c505c72ab9da28fd90b114534da89869e4d32983f2ebc5 *lede-x86-64-combined-squashfs-V64.1.8-R1(适用于虚拟机).vmdk
+## 最近更新 2016-10-05
+       de19f2e4e2247e4fd65e80583fccf950db3f62cdc5d583c0524473c3a38f06fc *lede-x86-64-combined-squashfs.img
 
 
 * 主题配色及兼容性优化
@@ -30,5 +29,6 @@ BUG反馈：<http://koolshare.cn/forum-80-1.html>  （没有反馈就没有完�
 * 全新流量监控，更加详细的数据显示
 * 修复一些定时任务的错误
 * 加强并发多拨
+* 增加阿里ddns
 
 ## 从这个版本开始全面转向LEDE开发，原Openwrt不再更新。（LEDE T7以前的所有版本升级到1.8R1不可以保留配置或者升级完成后导入以前的配置）
