@@ -19,16 +19,14 @@ koolshare openwrt X64
 
 BUG反馈：<http://koolshare.cn/forum-80-1.html>  （没有反馈就没有完善）   未来将转向LEDE,优先内测体验QQ交流群：103366563 <http://shang.qq.com/wpa/qunwpa?idkey=9689c491e45fdb982da6dd5dc7bb7c8dbeba427e358e289103b26fd43ca77ad0>
 
-## 最近更新 2016-09-13
-    a75038ac4d15c7101ebf4f64278102dc *openwrt-x86-64-combined-ext4.img
-    5436aed405a395e022f0a143caaa3c43 *openwrt-x86-64-combined-ext4.vmdk
-    636476ebbbd9929266e668cc64382d6d *openwrt-x86-64-combined-squashfs.img
+## 最近更新 2016-10-04
+       5d522d9740ebba0a860b5d36ac79852b8bc78b793e8e06740fc09a3e49157020 *lede-x86-64-combined-squashfs.img.gz
+       0c1adbf0e990ebf36fdb17e69bc7553d6bb4accd03085b1a01e1fdcbb40b60eb *lede-x86-64-combined-squashfs.vmdk
 
-
-
-
-* 修复1.6 开机DNS问题等N多天坑，已经记不全了。。。
-* 优化石像鬼、QOSv4、策略路由。。。等界面和脚本
-* 增加minidlna、百度网盘同步，定时唤醒、全新aria2下载控制器
-* aria2默认配置支持PT下载
-* 家长管理使用本地时间，不再是UTC时间
+* 主题配色及兼容性优化
+* S*S增加负载均衡、自动更新规则、连接状态显示
+* 修复QOS V4及石像鬼QOS设置后需要重启才生效的问题
+* 全新流量监控，更加详细的数据显示。
+* 修复一些定时任务的错误
+===================================
+从这个版本开始全面转向LEDE开发，原Openwrt不再更新。
