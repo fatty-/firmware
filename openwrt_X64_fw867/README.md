@@ -3,7 +3,7 @@ koolshare openwrt X64
 
 ## 固件特性
 
-    1. 64位4.4.23内核，4G以上内存和多核心支持，多核NAT
+    1. 64位4.4.30内核，4G以上内存和多核心支持，多核NAT
     2. Intel自动省电降频，自动睿频，AES指令集加速，超线程支持
     3. 集成QCA、BCM、Intel主流pcl-e无线网卡，MTK RTL usb无线网卡驱动
     4. 默认advancedtomato主题，集成material、bootstrap满足个性化需求
@@ -19,16 +19,16 @@ koolshare openwrt X64
 
 BUG反馈：<http://koolshare.cn/forum-80-1.html>  （没有反馈就没有完善）   未来将转向LEDE,优先内测体验QQ交流群：103366563 <http://shang.qq.com/wpa/qunwpa?idkey=9689c491e45fdb982da6dd5dc7bb7c8dbeba427e358e289103b26fd43ca77ad0>
 
-## 最近更新 2016-10-05
-       de19f2e4e2247e4fd65e80583fccf950db3f62cdc5d583c0524473c3a38f06fc *lede-x86-64-combined-squashfs.img
+## 最近更新 2016-11-03
+    sha256sums:
+    9237c97af71e8b3973cbfbc3472e6b6177ae94ffce7062ec570ad53db9c55d61 *lede-X64.1.9-x86-64-combined-squashfs.img.gz
 
 
-* 主题配色及兼容性优化
-* S*S增加负载均衡、自动更新规则、连接状态显示
-* 修复QOS V4及石像鬼QOS设置后需要重启才生效的问题
-* 全新流量监控，更加详细的数据显示
-* 修复一些定时任务的错误
-* 加强并发多拨
-* 增加阿里ddns
+* 增加softethervpn、DMZ、Koolproxy、AppleDNS
+* 优化SS负载均衡及出口指定
+* 优化单线多拨
+* 石像鬼加入DPI协议识别和控制
+* 修复Bugs
+* 从版本起NUC和正常模式固件合一，NUC切换：系统-进阶设置-模式切换
 
-## LEDE T7以前的所有版本升级到1.8R1不可以保留配置或者升级完成后导入以前的配置
+## 1.8R以前的版本不可以保留配置或者升级完成后导入以前的配置
