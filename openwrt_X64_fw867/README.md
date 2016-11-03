@@ -17,7 +17,7 @@ koolshare openwrt X64
     默认WEB 192.168.1.1 用户名 root 密码 koolshare
 ## 技术支持
 
-BUG反馈：<http://koolshare.cn/forum-80-1.html>  （没有反馈就没有完善）   未来将转向LEDE,优先内测体验QQ交流群：103366563 <http://shang.qq.com/wpa/qunwpa?idkey=9689c491e45fdb982da6dd5dc7bb7c8dbeba427e358e289103b26fd43ca77ad0>
+BUG反馈：<http://koolshare.cn/forum-80-1.html>  （没有反馈就没有完善）   LEDE内测体验交流QQ群：103366563 <http://shang.qq.com/wpa/qunwpa?idkey=9689c491e45fdb982da6dd5dc7bb7c8dbeba427e358e289103b26fd43ca77ad0>
 
 ## 最近更新 2016-11-03
     sha256sums:
