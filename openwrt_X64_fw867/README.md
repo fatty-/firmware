@@ -21,7 +21,7 @@ BUG反馈：<http://koolshare.cn/forum-80-1.html>  （没有反馈就没有完�
 
 ## 最近更新 2016-11-04
     sha256sums:
-    9237c97af71e8b3973cbfbc3472e6b6177ae94ffce7062ec570ad53db9c55d61 *lede-X64.1.9-x86-64-combined-squashfs.img.gz
+    50100481c0300d2f7839d8f7f1908d0ec65ff3bbbc470c264c795ff62e33387b *lede-X64.1.9-x86-64-combined-squashfs.img.gz
 
 
 * 增加softethervpn、DMZ、Koolproxy、AppleDNS
