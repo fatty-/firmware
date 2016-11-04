@@ -19,7 +19,7 @@ koolshare openwrt X64
 
 BUG反馈：<http://koolshare.cn/forum-80-1.html>  （没有反馈就没有完善）   LEDE内测体验交流QQ群：103366563 <http://shang.qq.com/wpa/qunwpa?idkey=9689c491e45fdb982da6dd5dc7bb7c8dbeba427e358e289103b26fd43ca77ad0>
 
-## 最近更新 2016-11-03
+## 最近更新 2016-11-04
     sha256sums:
     9237c97af71e8b3973cbfbc3472e6b6177ae94ffce7062ec570ad53db9c55d61 *lede-X64.1.9-x86-64-combined-squashfs.img.gz
 
