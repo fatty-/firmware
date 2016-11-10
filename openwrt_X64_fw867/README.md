@@ -19,16 +19,17 @@ koolshare openwrt X64
 
 BUG反馈：<http://koolshare.cn/forum-80-1.html>  （没有反馈就没有完善）   LEDE内测体验交流QQ群：103366563 <http://shang.qq.com/wpa/qunwpa?idkey=9689c491e45fdb982da6dd5dc7bb7c8dbeba427e358e289103b26fd43ca77ad0>
 
-## 最近更新 2016-11-04
+## 最近更新 2016-11-10
     sha256sums:
-    50100481c0300d2f7839d8f7f1908d0ec65ff3bbbc470c264c795ff62e33387b *lede-X64.1.9-x86-64-combined-squashfs.img.gz
+    2552df8c4b29a6ebd022566aa3e7fcf3291e0ae082d0ccf90d501f3ae807da18 *lede-X64.1.9-Update1-x86-64-combined-squashfs.img.gz
 
 
-* 增加softethervpn、DMZ、Koolproxy、AppleDNS
-* 优化SS负载均衡及出口指定
-* 优化单线多拨
-* 石像鬼加入DPI协议识别和控制
-* 修复Bugs
-* 从这个版起NUC和正常模式固件合一，NUC切换：系统-进阶设置-模式切换
-
-## 1.8R6以前的版本不可以保留配置或者升级完成后导入以前的配置
+    1.增加行为管理应用-访问限制、上网记录、网址过滤（完成度50%）
+    2.升级koolproxy,现在程序自带守护
+    3.重新加入pptp服务器
+    4.修复kcptun-plus、百度网盘同步
+    5.界面调整
+    6.其它bug修复
+    7.去掉https强制跳转
+----------------------------------
+* 1.9可以直接web升级到本版本
