@@ -1,4 +1,4 @@
-改进版dnsmasq，只能用于X7.2及其以上固件
+改进版dnsmasq，只能用于X7.2及其以上固件，其它老版本固件请用dnsmasq文件夹下的
 
 原帖：https://www.v2ex.com/t/172010
 
