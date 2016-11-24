@@ -23,13 +23,9 @@ BUG反馈：<http://koolshare.cn/forum-80-1.html>  （没有反馈就没有完�
     sha256sums:
     d4de318fbdcc7ac29e797198cd15cd66ae56b16564ff11ccfbfa463033a7d010 *lede-V1.9-Update2-x86-64-combined-squashfs.img.gz
 * 升级内核到4.4.31
-* 增加客户端实时流量查看
-* 增加行为管理ndpi协议过滤
-* 增加DDNS-Cloudxns
-* 增加PPPOE穿透
-* 增加远程监控
+* 增加客户端实时流量查看、增加行为管理ndpi协议过滤、增加DDNS-Cloudxns、增加PPPOE穿透、增加远程监控
+* 负载均衡规则增加开关，保留配置升级的多拨用户，需要进入负载均衡-设置-规则在启用项打钩才能应用规则。
 * 修复一些BUG
-
 ----------------------------------
 * 1.9可以保留配置直接web升级到最新版本，建议先备份配置。
 * Nuc点击菜单：系统-进阶设置-模式切换-nuc模式
