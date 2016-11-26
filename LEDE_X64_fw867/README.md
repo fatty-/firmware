@@ -3,7 +3,7 @@ koolshare Lede X64 Nuc
 
 ## 固件特性
 
-    1. 64位4.4.31内核，4G以上内存和多核心支持，多核NAT
+    1. 64位4.4.32内核，4G以上内存和多核心支持，多核NAT
     2. Intel自动省电降频，自动睿频，AES指令集加速，超线程支持
     3. 集成MTK RTL usb无线网卡驱动
     4. 默认advancedtomato主题，集成material、bootstrap满足个性化需求
@@ -19,13 +19,12 @@ koolshare Lede X64 Nuc
 
 BUG反馈：<http://koolshare.cn/forum-80-1.html>     LEDE内测体验交流QQ群：103366563 <http://shang.qq.com/wpa/qunwpa?idkey=9689c491e45fdb982da6dd5dc7bb7c8dbeba427e358e289103b26fd43ca77ad0>
 
-## 最近更新 2016-11-24
+## 最近更新 2016-11-26
     sha256sums:
-    d4de318fbdcc7ac29e797198cd15cd66ae56b16564ff11ccfbfa463033a7d010 *lede-V1.9-Update2-x86-64-combined-squashfs.img.gz
-* 升级内核到4.4.31
-* 增加客户端实时流量查看、增加行为管理ndpi协议过滤、增加DDNS-Cloudxns、增加PPPOE穿透、增加远程监控
-* 负载均衡规则增加开关，保留配置升级的多拨用户，需要进入负载均衡-设置-规则在启用项打钩才能应用规则。
-* 修复一些BUG
+    c1d6536c51f63aad833d8800edb4f66c465b170807e5b0be9b92e5c0160fbf18 *lede-V1.9-Update3-x86-64-combined-squashfs.img.gz
+* 修复kcptun、Cloudxns
+* S*S增加回国模式
+* 升级内核到4.4.32
 ----------------------------------
 * 1.9可以保留配置直接web升级到最新版本，建议先备份配置。
 * Nuc点击菜单：系统-进阶设置-模式切换-nuc模式
