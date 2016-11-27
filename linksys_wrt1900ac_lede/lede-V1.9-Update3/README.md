@@ -4,7 +4,10 @@
 ## 固件特性
     0. linux 4.4.32内核
     1. 默认advancedtomato主题，集成material、bootstrap满足个性化需求
-    2. 集成常用软件：S^S、kcptun、广告过滤adbyby、广告过滤koolproxy、Ngrok、pptp openvpn服务器、webshell、dnspod、aria2、硬盘自动休眠、单wan多拨、多线负载均衡、多ISP策略路由、USB打印服务器、家长管理、定时唤醒、百度网盘同步...
+    2. 集成常用软件：S^S、kcptun、广告过滤adbyby、广告过滤koolproxy、Ngrok、
+    pptp openvpn服务器、webshell、dnspod、aria2、硬盘自动休眠、
+    单wan多拨、多线负载均衡、多ISP策略路由、USB打印服务器、
+    家长管理、定时唤醒、百度网盘同步...
     3. 支持cpu，wifi温度显示；
     3. IPV6支持、石像鬼QOS
 
