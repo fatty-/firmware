@@ -3,6 +3,6 @@
 ```
 wget -O /koolshare/bin/wl1 http://firmware.koolshare.cn/binary/wl_for_sdk7/wl
 chmod +x /koolshare/bin/wl1
->查询功率
+>     查询功率
 wl1 txpwr_target_max
 ```
