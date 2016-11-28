@@ -3,6 +3,12 @@
 ```
 wget -O /koolshare/bin/wl1 http://firmware.koolshare.cn/binary/wl_for_sdk7/wl
 chmod +x /koolshare/bin/wl1
-#查询功率
-wl1 txpwr_target_max
+# 查询2.4G功率
+wl1 -i eth1 txpwr_target_max
+# 查询5G1功率
+wl1 -i eth2 txpwr_target_max
+# 查询5G2功率
+wl1 -i eth3 txpwr_target_max
+# 修改2.4G功率为500mw
+wl1 -i eth1 txpwr_target_max
 ```
