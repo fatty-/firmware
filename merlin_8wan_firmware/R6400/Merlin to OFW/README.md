@@ -1,4 +1,4 @@
-## R6300V2_380.59_beta2-X6.6.0.trx
+## R6400_to_OFW.trx
  
 ##### File: R6400_to_OFW.trx
 ##### Size: 27537408 bytes
