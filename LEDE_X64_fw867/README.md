@@ -21,7 +21,7 @@ BUG反馈：<http://koolshare.cn/forum-80-1.html>     LEDE内测体验交流QQ�
 
 ## 最近更新 2016-12-09
     sha256sums:
-    ae1ab9167cb04bc1dffcbdbf0ce8cd0ff02773c6208971ebb574983ab1066a74 *lede-V1.9-Update4-x86-64-combined-squashfs.img.gz
+    9189812e4d6899757190d1f93a00f0dab30c4946d425bfc4c88d8863b7136f0f *lede-V1.9-Update4-x86-64-combined-squashfs.img.gz
 * 升级内核到4.4.36
 * dnspod、cloudxns、aliddns合并为koolddns,支持无限子域名和主域名同步，aliddns改用https传输数据。
 * root分区调整为512M
