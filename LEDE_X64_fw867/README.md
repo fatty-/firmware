@@ -24,7 +24,7 @@ BUG反馈：<http://koolshare.cn/forum-80-1.html>     LEDE内测体验交流QQ�
     ae1ab9167cb04bc1dffcbdbf0ce8cd0ff02773c6208971ebb574983ab1066a74 *lede-V1.9-Update4-x86-64-combined-squashfs.img.gz
 * 升级内核到4.4.36
 * dnspod、cloudxns、aliddns合并为koolddns,支持无限子域名和主域名同步，aliddns改用https传输数据。
-* 优化实时流量性能
+* root分区调整为512M
 * 修复bugs
 ----------------------------------
 * 1.9可以保留配置直接web升级到最新版本，建议先备份配置。
