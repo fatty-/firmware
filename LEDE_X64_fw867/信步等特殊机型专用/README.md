@@ -20,7 +20,7 @@ koolshare Lede X64 Nuc
 BUG反馈：<http://koolshare.cn/forum-80-1.html>     LEDE内测体验交流QQ群：103366563 <http://shang.qq.com/wpa/qunwpa?idkey=9689c491e45fdb982da6dd5dc7bb7c8dbeba427e358e289103b26fd43ca77ad0>
 
 ## 最近更新 2016-12-07
-    e084d4f041b9100d52e354bc105e5e74e69b58e197ff66156160ae56ff3501a9 *lede-V1.9-Update4-x86-64-combined-squashfs.img.gz
+    026e3759fdedbf55ab784e38012ed9b3e11ca9e35e7a7a3b63e46c2d05b4ccfe *lede-V1.9-Update4-x86-64-combined-squashfs.img.gz
 
 * 升级内核到4.4.36
 * dnspod、cloudxns、aliddns合并为koolddns,支持无限子域名和主域名同步，aliddns改用https传输数据。
