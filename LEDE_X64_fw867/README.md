@@ -3,7 +3,7 @@ koolshare Lede X64 Nuc
 
 ## 固件特性
 
-    1. 64位4.4.36内核，4G以上内存和多核心支持，多核NAT
+    1. 64位4.4.42内核，4G以上内存和多核心支持，多核NAT
     2. Intel自动省电降频，自动睿频，AES指令集加速，超线程支持
     3. 集成MTK RTL usb无线网卡驱动
     4. 默认advancedtomato主题，集成material、bootstrap满足个性化需求
@@ -19,13 +19,16 @@ koolshare Lede X64 Nuc
 
 BUG反馈：<http://koolshare.cn/forum-80-1.html>     LEDE内测体验交流QQ群：103366563 <http://shang.qq.com/wpa/qunwpa?idkey=9689c491e45fdb982da6dd5dc7bb7c8dbeba427e358e289103b26fd43ca77ad0>
 
-## 最近更新 2016-12-09
+## 最近更新 2017-01-18
     sha256sums:
-    9189812e4d6899757190d1f93a00f0dab30c4946d425bfc4c88d8863b7136f0f *lede-V1.9-Update4-x86-64-combined-squashfs.img.gz
-* 升级内核到4.4.36
-* dnspod、cloudxns、aliddns合并为koolddns,支持无限子域名和主域名同步，aliddns改用https传输数据。
-* root分区调整为512M
-* 修复bugs
+    4a8f434e72742c20600020479d9278d7711e038e1c4b106041b7b5de7edb0ee2 *lede-v1.9-update5-r3275-c8fb956-x86-64-combined-squashfs.img.gz
+* 增加行为管理应用-访问限制、上网记录、网址过滤（完成度50%）
+* 升级koolproxy,现在程序自带守护
+* 重新加入pptp服务器
+* 修复kcptun-plus、百度网盘同步
+* 界面调整
+* 其它bug修复
+* 去掉https强制跳转
 ----------------------------------
 * 1.9可以保留配置直接web升级到最新版本，建议先备份配置。
 * Nuc点击菜单：系统-进阶设置-模式切换-nuc模式
