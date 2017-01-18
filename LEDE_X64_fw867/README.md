@@ -22,13 +22,12 @@ BUG反馈：<http://koolshare.cn/forum-80-1.html>     LEDE内测体验交流QQ�
 ## 最近更新 2017-01-18
     sha256sums:
     4a8f434e72742c20600020479d9278d7711e038e1c4b106041b7b5de7edb0ee2 *lede-v1.9-update5-r3275-c8fb956-x86-64-combined-squashfs.img.gz
-* 增加行为管理应用-访问限制、上网记录、网址过滤（完成度50%）
-* 升级koolproxy,现在程序自带守护
-* 重新加入pptp服务器
-* 修复kcptun-plus、百度网盘同步
-* 界面调整
-* 其它bug修复
-* 去掉https强制跳转
+* 升级内核到4.4.42
+* koolddns支持@*解析
+* 升级S*s版本，支持混淆设置，升级ssr版本（ss服务器需要重新编辑设置一下）
+* 升级koolproxy到3.1支持https过滤
+* 优化负载均衡
+* 修复bugs
 ----------------------------------
 * 1.9可以保留配置直接web升级到最新版本，建议先备份配置。
 * Nuc点击菜单：系统-进阶设置-模式切换-nuc模式
