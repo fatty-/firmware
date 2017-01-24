@@ -7,7 +7,6 @@
 ##### 规则校验文件：https://rules.ngrok.wang/config.json.js
 
 ```shell
-koolproxy: invalid option -- v
 KoolProxy By Xiaobao & Crwnet v3.2.1
 
 USAGE:
