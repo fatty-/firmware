@@ -22,3 +22,5 @@ OPTIONS:
   -d                   run as daemon mode
   -h                   show help
 ```
+
+证书生成请参考如下脚本：https://github.com/koolproxy/merlin-koolproxy/blob/master/koolproxy/koolproxy/data/gen_ca.sh
