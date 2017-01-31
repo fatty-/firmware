@@ -21,7 +21,7 @@ luci-app-koolproxy 目前支持mips,mipsel,arm,i386,x86_64架构，能安装在o
 </br>
 所以请用opkg手动安装以上包</br>
 </font></br>
-</br>
+
 ## 开始安装：
 请使用putty或者其它SSH工具登陆到路由器，然后在联网状态下运行：
 mips：		opkg install http://firmware.koolshare.cn/binary/KoolProxy/luci/luci-app-koolproxy_mips.ipk </br>
@@ -39,6 +39,8 @@ opkg install http://firmware.koolshare.cn/binary/KoolProxy/luci/luci-i18n-koolpr
 3. 此版本在网件WNDR4300V1(mips) OpenWrt Chaos Calmer 15.05.1上测试通过，其它机型暂时未经过测试，如果遇到问题，请到以下渠道进行反馈:
 * QQ群：https://jq.qq.com/?_wv=1027&k=445DYpV </br>
 * TG群：https://t.me/joinchat/AAAAAD-tO7GPvfOU131_vg
+
+## 当前集成版本：koolproxy 3.2.4
 
 
 
