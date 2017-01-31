@@ -12,8 +12,9 @@ http://koolshare.cn/thread-80772-1-1.html
 
 ## 准备工作：
 luci-app-koolproxy 目前支持mips,mipsel,arm,i386,x86_64架构，能安装在openwrt/lede固件的机型上 </br>
-请使用cat /proc/cpuinfo查询自己路由器的cpu架构，注意ar系列基本都是mips，mtk的都是mipsel，然后根据自己的cpu架构安装： </br>
-安装前请确保你的路由器上有**openssl,ipset,dnsmasq-full,diff**这几个软件包，特别是openssl，没有的话就不能正常生成证书，如果没有ipset,dnsmasq-full,diff，黑名单模式也会出现问题！以上包如果确实请自行用opkg命令安装 </br>
+请使用cat /proc/cpuinfo查询自己路由器的cpu架构，注意ar系列基本都是mips，mtk的都是mipsel，然后根据自己的cpu架构
+</br>
+<font color=gray size=5>安装前请确保你的路由器上有**openssl,ipset,dnsmasq-full,diff**这几个软件包，特别是openssl，没有的话就不能正常生成证书，如果没有ipset,dnsmasq-full,diff，黑名单模式也会出现问题！以上包如果确实请自行用opkg命令安装 <font></br>
 </br>
 ## 开始安装：
 请使用putty或者其它SSH工具登陆到路由器，然后在联网状态下运行：
