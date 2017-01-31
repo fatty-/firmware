@@ -1,0 +1,37 @@
+## 声明：
+1. KoolProxy 是一个免费软件，著作权归属 KoolProxy.com，用户可以非商业性地复制和使用 KoolProxy，但禁止将 KoolProxy 用于商业用途。
+2. KoolProxy 可以对 https 网络数据进行识别代理，使用 https 功能的用户需要自己提供相关证书，本程序提供的证书生成脚本仅供用户参考，证书的保密工作由用户自行负责。
+3. 使用本软件的风险由用户自行承担，在适用法律允许的最大范围内，对因使用本产品所产生的损害及风险，包括但不限于直接或间接的个人损害、商业赢利的丧失、贸易中断、商业信息的丢失或任何其它经济损失，KoolProxy.com 不承担任何责任。
+
+koolproxy更新日志：
+http://koolshare.cn/thread-64086-1-1.html
+
+koolproxy性能测试：
+http://koolshare.cn/thread-80772-1-1.html
+
+
+## 准备工作：
+luci-app-koolproxy 目前支持mips,mipsel,arm,i386,x86_64架构，能安装在openwrt/lede固件的机型上 </br>
+请使用cat /proc/cpuinfo查询自己路由器的cpu架构，注意ar系列基本都是mips，mtk的都是mipsel，然后根据自己的cpu架构安装： </br>
+安装前请确保你的路由器上有openssl,ipset,dnsmasq-full,diff这几个软件包，如果没有，请自行用opkg命令安装 </br>
+</br>
+## 开始安装：
+请使用putty或者其它SSH工具登陆到路由器，然后在联网状态下运行：
+mips：		opkg install http://firmware.koolshare.cn/binary/KoolProxy/luci/luci-app-koolproxy_mips.ipk </br>
+mipsel：	opkg install http://firmware.koolshare.cn/binary/KoolProxy/luci/luci-app-koolproxy_mipsel.ipk </br>
+arm：		opkg install http://firmware.koolshare.cn/binary/KoolProxy/luci/luci-app-koolproxy_arm.ipk </br>
+i386：		opkg install http://firmware.koolshare.cn/binary/KoolProxy/luci/luci-app-koolproxy_i386.ipk </br>
+x86_64：	opkg install http://firmware.koolshare.cn/binary/KoolProxy/luci/luci-app-koolproxy_x86_64.ipk </br>
+
+如果需要中文翻译，还需要运行</br>
+opkg install http://firmware.koolshare.cn/binary/KoolProxy/luci/luci-i18n-koolproxy-zh-cn.ipk
+
+## 注意事项：
+1. 此版本在网件WNDR4300V1(mips) OpenWrt Chaos Calmer 15.05.1上测试通过，其它机型暂时未经过测试，如果遇到问题，请到以下渠道进行反馈:
+
+* QQ群：https://jq.qq.com/?_wv=1027&k=445DYpV </br>
+* TG群：https://t.me/joinchat/AAAAAD-tO7GPvfOU131_vg
+
+
+
+
