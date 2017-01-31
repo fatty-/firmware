@@ -27,7 +27,8 @@ x86_64：	opkg install http://firmware.koolshare.cn/binary/KoolProxy/luci/luci-a
 opkg install http://firmware.koolshare.cn/binary/KoolProxy/luci/luci-i18n-koolproxy-zh-cn.ipk
 
 ## 注意事项：
-1. 此版本在网件WNDR4300V1(mips) OpenWrt Chaos Calmer 15.05.1上测试通过，其它机型暂时未经过测试，如果遇到问题，请到以下渠道进行反馈:
+1. 首次运行koolproxy的时候，保存并提交速度较慢，因为会生成证书。
+2. 此版本在网件WNDR4300V1(mips) OpenWrt Chaos Calmer 15.05.1上测试通过，其它机型暂时未经过测试，如果遇到问题，请到以下渠道进行反馈:
 
 * QQ群：https://jq.qq.com/?_wv=1027&k=445DYpV </br>
 * TG群：https://t.me/joinchat/AAAAAD-tO7GPvfOU131_vg
