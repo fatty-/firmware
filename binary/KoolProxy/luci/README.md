@@ -23,7 +23,7 @@ luci-app-koolproxy 目前支持mips,mipsel,arm,i386,x86_64架构，能安装在o
 </font></br>
 
 ## 开始安装：
-请使用putty或者其它SSH工具登陆到路由器，然后在联网状态下运行：
+请使用putty或者其它SSH工具登陆到路由器，然后在联网状态下运行：</br>
 mips：		opkg install http://firmware.koolshare.cn/binary/KoolProxy/luci/luci-app-koolproxy_mips.ipk </br>
 mipsel：	opkg install http://firmware.koolshare.cn/binary/KoolProxy/luci/luci-app-koolproxy_mipsel.ipk </br>
 arm：		opkg install http://firmware.koolshare.cn/binary/KoolProxy/luci/luci-app-koolproxy_arm.ipk </br>
