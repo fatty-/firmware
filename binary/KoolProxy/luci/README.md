@@ -18,6 +18,7 @@ luci-app-koolproxy 目前支持mips,mipsel,arm,i386,x86_64架构，能安装在o
 * 如果没有openssl，就不能正常生成证书，导致https过滤失败！
 * 如果没有ipset,dnsmasq-full,diff，黑名单模式也会出现问题！
 * 如果没有iptables-mod-nat-extra，会导致mac过滤失效！</br>
+</br>
 所以请用opkg手动安装以上包</br>
 </font></br>
 </br>
