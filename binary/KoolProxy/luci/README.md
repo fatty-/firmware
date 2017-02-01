@@ -14,12 +14,12 @@ http://koolshare.cn/thread-80772-1-1.html
 luci-app-koolproxy 目前支持mips,mipsel,arm,i386,x86_64架构，能安装在openwrt/lede固件的机型上 </br>
 请使用cat /proc/cpuinfo查询自己路由器的cpu架构，注意ar系列基本都是mips，mtk的都是mipsel，然后根据自己的cpu架构
 </br>
-<font color=red>安装前请确保你的路由器上有**openssl, ipset, dnsmasq-full, diffutils, iptables-mod-nat-extra**这几个软件包
+<font color=red>安装前请确保你的路由器上有**openssl-util, ipset, dnsmasq-full, diffutils, iptables-mod-nat-extra**这几个软件包
 * 如果没有openssl，就不能正常生成证书，导致https过滤失败！
 * 如果没有ipset,dnsmasq-full,diffutils，黑名单模式也会出现问题！（ipset 需要版本6）
 * 如果没有iptables-mod-nat-extra，会导致mac过滤失效！</br>
 </br>
-所以请用`opkg install openssl, ipset, dnsmasq-full, diffutils, iptables-mod-nat-extra`手动安装以上包</br>
+所以请用`opkg install openssl-util, ipset, dnsmasq-full, diffutils, iptables-mod-nat-extra`手动安装以上包</br>
 </font></br>
 
 ## 开始安装：
