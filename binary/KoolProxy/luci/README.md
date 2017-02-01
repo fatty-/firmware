@@ -40,7 +40,8 @@ opkg install http://firmware.koolshare.cn/binary/KoolProxy/luci/luci-i18n-koolpr
 * QQ群：https://jq.qq.com/?_wv=1027&k=445DYpV </br>
 * TG群：https://t.me/joinchat/AAAAAD-tO7GPvfOU131_vg
 
-## 当前集成版本：koolproxy 3.2.4
+## LUCI更新日志：
+2017年02月01日 0:31, koolproxy 3.2.4
 
 
 
