@@ -17,10 +17,10 @@ luci-app-koolproxy 目前支持mips,mipsel,arm,i386,x86_64架构，能安装在o
 <font color=red>
 先运行`opkg install openssl-util  ipset dnsmasq-full diffutils iptables-mod-nat-extra wget ca-bundle ca-certificates libustream-openssl`手动安装以上依赖包</br>
 
-* 如果没有 openssl，就不能正常生成证书，导致https过滤失败！
-* 如果没有 ipset,dnsmasq-full,diffutils，黑名单模式也会出现问题！（ipset 需要版本6）
-* 如果没有 iptables-mod-nat-extra，会导致mac过滤失效！
-* 如果没有 wget ca-bundle ca-certificates openssl-util，会导致规则文件更新失败，host规则条数变为0
+* 如果没有 **openssl** ，就不能正常生成证书，导致https过滤失败！
+* 如果没有 **ipset,dnsmasq-full,diffutils **，黑名单模式也会出现问题！（ipset 需要版本6）
+* 如果没有 **iptables-mod-nat-extra** ，会导致mac过滤失效！
+* 如果没有 **wget ca-bundle ca-certificates openssl-util** ，会导致规则文件更新失败，host规则条数变为0
 </br>
 </br>
 
