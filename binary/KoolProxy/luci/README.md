@@ -19,7 +19,7 @@ luci-app-koolproxy 目前支持mips,mipsel,arm,i386,x86_64架构，能安装在o
 * 如果没有ipset,dnsmasq-full,diffutils，黑名单模式也会出现问题！（ipset 需要版本6）
 * 如果没有iptables-mod-nat-extra，会导致mac过滤失效！</br>
 </br>
-所以请用`opkg install openssl-util, ipset, dnsmasq-full, diffutils, iptables-mod-nat-extra`手动安装以上包</br>
+所以请用`opkg install openssl-util ipset dnsmasq-full diffutils iptables-mod-nat-extra`手动安装以上包</br>
 </font></br>
 
 ## 开始安装：
