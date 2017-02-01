@@ -11,24 +11,21 @@ http://koolshare.cn/thread-80772-1-1.html
 
 
 ## 准备工作：
-luci-app-koolproxy 目前支持mips,mipsel,arm,i386,x86_64架构，能安装在openwrt/lede固件的机型上 </br>
-请使用cat /proc/cpuinfo查询自己路由器的cpu架构，注意ar系列基本都是mips，mtk的都是mipsel，然后根据自己的cpu架构
-</br>
 <font color=red>
-先运行`opkg install openssl-util  ipset dnsmasq-full diffutils iptables-mod-nat-extra wget ca-bundle ca-certificates libustream-openssl`手动安装以上依赖包</br>
+先运行：</br>
+`opkg install openssl-util  ipset dnsmasq-full diffutils iptables-mod-nat-extra wget ca-bundle ca-certificates libustream-openssl`</br>
+手动安装以上依赖包</br>
 
-如果以上文字很难复制，请到这里去复制：https://github.com/koolshare/firmware/blob/master/binary/KoolProxy/luci/README.md
+如果以上文字很难复制，请到这里去复制：https://github.com/koolshare/firmware/blob/master/binary/KoolProxy/luci/README.md</br>
 
 * 如果没有 **openssl** ，就不能正常生成证书，导致https过滤失败！
 * 如果没有 **ipset, dnsmasq-full, diffutils **，黑名单模式也会出现问题！（ipset 需要版本6）
 * 如果没有 **iptables-mod-nat-extra** ，会导致mac过滤失效！
 * 如果没有 **wget, ca-bundle, ca-certificates, libustream-openssl** ，会导致规则文件更新失败，host规则条数变为0
-</br>
-</br>
-
-</font></br>
+</br></font></br>
 
 ## 开始安装：
+请使用cat /proc/cpuinfo查询自己路由器的cpu架构，注意ar系列基本都是mips，mtk的都是mipsel，然后根据自己的cpu架构选择对应的安装方式：</br>
 请使用putty或者其它SSH工具登陆到路由器，然后在联网状态下运行：</br>
 mips：		opkg install http://firmware.koolshare.cn/binary/KoolProxy/luci/luci-app-koolproxy_mips.ipk </br>
 mipsel：	opkg install http://firmware.koolshare.cn/binary/KoolProxy/luci/luci-app-koolproxy_mipsel.ipk </br>
