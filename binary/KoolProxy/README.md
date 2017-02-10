@@ -7,7 +7,7 @@
 ##### 规则校验文件：https://rules.ngrok.wang/config.json.js
 
 ```shell
-KoolProxy By Xiaobao & Crwnet v3.3.0
+KoolProxy By Xiaobao & Crwnet v3.3.1
 
 USAGE:
   koolproxy [options] [arguments...]
