@@ -26,6 +26,7 @@ BUG反馈：<http://koolshare.cn/forum-80-1.html>     LEDE内测体验交流QQ�
 * 升级内核到4.9.8，启用默认tcp bbr
 * 升级koolproxy到3.3.1,修复规则更新问题
 * koolddns支持url获取ip支持指定接口,增加双线多拨（感谢stones）
+* 升级s*s到3.0.1
 * 由于百度官方api问题，暂时下架百度网盘插件
 * 修复bugs
 ----------------------------------
