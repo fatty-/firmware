@@ -7,7 +7,7 @@
 ##### 规则校验文件：https://rules.ngrok.wang/config.json.js
 
 ```shell
-KoolProxy By Xiaobao & Crwnet v3.3.1
+KoolProxy By Xiaobao & Crwnet v3.3.3
 
 USAGE:
   koolproxy [options] [arguments...]
@@ -18,7 +18,6 @@ OPTIONS:
   -c value        thread count, default value is the number of cpus
   -b value        data path, default value is './data'
   -t value        ttl mode, set the socket ttl when connect to remote host. default value is 0 (disable)
-  -e              load video rule and user rule only
   -d              run as daemon mode
   -v              show version
   -h              show help
