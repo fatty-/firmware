@@ -3,7 +3,7 @@ koolshare Lede X64 Nuc
 
 ## 固件特性
 
-    1. 64位4.9.8内核，4G以上内存和多核心支持，多核NAT
+    1. 64位4.9.13内核，4G以上内存和多核心支持，多核NAT
     2. Intel自动省电降频，自动睿频，AES指令集加速，超线程支持
     3. 集成MTK RTL usb无线网卡驱动
     4. 默认advancedtomato主题，集成material、bootstrap满足个性化需求
@@ -19,15 +19,12 @@ koolshare Lede X64 Nuc
 
 BUG反馈：<http://koolshare.cn/forum-80-1.html>     LEDE内测体验交流QQ群：103366563 <http://shang.qq.com/wpa/qunwpa?idkey=9689c491e45fdb982da6dd5dc7bb7c8dbeba427e358e289103b26fd43ca77ad0>
 
-## 最近更新 2017-02-11
+## 最近更新 2017-03-2
     sha256sums:
-    acce349d73b0efd6f499ae29b3e35b6478409e95d9502b9d734fc9ba905901d6 *lede-v1.9-update6-r3667-62c22bd-x86-64-combined-squashfs.img.gz
+    123053a5366b655f00eb038cc7a55621eeca8568d8ef97a251d455f1a6fbd163 *lede-v1.9-update7-r3950-76b274e-x86-64-combined-squashfs.img
 
-* 升级内核到4.9.8，启用默认tcp bbr
-* 升级koolproxy到3.3.1,修复规则更新问题
-* koolddns支持url获取ip支持指定接口,增加双线多拨（感谢stones）
-* 升级s*s到3.0.1
-* 由于百度官方api问题，暂时下架百度网盘插件
+* 升级内核到4.9.13，启用默认tcp bbr
+* 升级s*s到3.0.3,增加插件自定义
 * 修复bugs
 ----------------------------------
 * 1.9可以保留配置直接web升级到最新版本，建议先备份配置。
