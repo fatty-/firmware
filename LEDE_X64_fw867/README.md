@@ -21,7 +21,7 @@ BUG反馈：<http://koolshare.cn/forum-80-1.html>     LEDE内测体验交流QQ�
 
 ## 最近更新 2017-03-2
     sha256sums:
-    123053a5366b655f00eb038cc7a55621eeca8568d8ef97a251d455f1a6fbd163 *lede-v1.9-update7-r3950-76b274e-x86-64-combined-squashfs.img
+    9825b05be3919c74d12c489232ca8a990fc01d81483b00df50085a3a94a8c8c0 *lede-v1.9-update7-r3950-76b274e-x86-64-combined-squashfs.img
 
 * 升级内核到4.9.13，启用默认tcp bbr
 * 升级s*s到3.0.3,增加插件自定义
