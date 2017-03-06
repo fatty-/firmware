@@ -19,13 +19,12 @@ koolshare Lede X64 Nuc
 
 BUG反馈：<http://koolshare.cn/forum-80-1.html>     LEDE内测体验交流QQ群：103366563 <http://shang.qq.com/wpa/qunwpa?idkey=9689c491e45fdb982da6dd5dc7bb7c8dbeba427e358e289103b26fd43ca77ad0>
 
-## 最近更新 2017-03-2
+## 最近更新 2017-03-6
     sha256sums:
-    9825b05be3919c74d12c489232ca8a990fc01d81483b00df50085a3a94a8c8c0 *lede-v1.9-update7-r3950-76b274e-x86-64-combined-squashfs.img
+    48cb03691e49f34e4fa34032d8e2e4dfb0d08fe9dbecd5206489499a7d219729 *lede-v1.9-update8-r3963-b630c36-x86-64-combined-squashfs.img
 
-* 升级内核到4.9.13，启用默认tcp bbr
-* 升级s*s到3.0.3,增加插件自定义
-* 修复bugs
+* 修复miniupnp
+* 修复ss定时开关bug
 ----------------------------------
 * 1.9可以保留配置直接web升级到最新版本，建议先备份配置。
 * Nuc点击菜单：系统-进阶设置-模式切换-nuc模式
