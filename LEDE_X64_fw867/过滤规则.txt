@@ -1,0 +1,15 @@
+视频规则
+http://entware.mirrors.ligux.com/koolproxy/1.dat
+
+静态规则
+http://entware.mirrors.ligux.com/koolproxy/koolproxy.txt
+
+每日规则
+http://entware.mirrors.ligux.com/koolproxy/add_rules.txt
+
+防败家规则
+https://rules.ngrok.wang/no_shopping.txt
+
+拯救室友规则
+http://entware.mirrors.ligux.com/koolproxy/filter_game.txt
+	
