@@ -24,7 +24,7 @@ BUG反馈：<http://koolshare.cn/forum-97-1.html>     LEDE内测体验交流QQ�
     f243e407d9d7edd0f4666b4a071da4db4f929c258a2472342f2764787533468a *lede-v1.9-update10-r4234-31bc885-x86-64-combined-squashfs.img.gz
 
 * 升级内核到4.9.17
-* koolproxy升级到3.5.6，新增规则订阅。
+* koolproxy升级到3.3.6，新增规则订阅。
 * 流量统计更改为ntopng（测试版）
 * 更新一些应用版本
 * 修复bug
