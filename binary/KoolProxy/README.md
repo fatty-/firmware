@@ -20,3 +20,7 @@ OPTIONS:
 ```
 
 证书生成请参考如下脚本：https://github.com/koolproxy/merlin-koolproxy/blob/master/koolproxy/koolproxy/data/gen_ca.sh
+
+
+由于大量koolproxy下载请求，几乎全部都是mipsel架构的，不仅导致现在的服务器爆了流量，还爆了信用卡，而服务器还要提供固件下载服务，所以 经过考虑，决定撤下http://firmware.koolshare.cn/binary/KoolProxy/这里的 koolproxy二进制文件，老毛子固件，部分luci用户，部分lede用户可能会受到影响。
+koolproxy 将于近期更新3.4版本，集成二进制自动更新功能，且使用cdn服务，固件、插件作者、用户都不需要再关心二进制版本的升级。
