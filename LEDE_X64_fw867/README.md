@@ -19,15 +19,15 @@ koolshare Lede X64 Nuc
 
 BUG反馈：<http://koolshare.cn/forum-97-1.html>     LEDE内测体验交流QQ群：103366563 <http://shang.qq.com/wpa/qunwpa?idkey=9689c491e45fdb982da6dd5dc7bb7c8dbeba427e358e289103b26fd43ca77ad0>
 
-## 最近更新 2017-04-03
+## 最近更新 2017-04-20
     sha256sums:
-    936dad0bb2ffa1a5028d6e321af77d43a264ad37b17746751209d46a43a1871a *lede-v1.9-update11-r4255-f645165-x86-64-combined-squashfs.img
+    09d0859ae5b4faa79f28fce339c9c5ac41d2b15d5b38a6376a59a69d8f5731f1 *lede-v1.9-update12-r4347-6360059-x86-64-combined-squashfs.img.gz
 
-* 升级内核到4.9.20
-* 使用稳定版dnsmasq。
-* 流量统计去掉ntopng
-* 添加详细的系统状态查看
-* 修复bug
+* 升级koolproxy到3.4
+* 增加homekit
+* 升级iptables、mwan3
+* 修复miniupnp
+* 修复其它的一些bug
 ----------------------------------
 * Nuc点击菜单：系统-进阶设置-模式切换-nuc模式
 * 如果是保留配置更新到update10,koolproxy需要自行添加过滤规则并启用才能生效，目前可订阅的规则有(见附件-过滤规则)       
