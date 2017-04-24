@@ -36,9 +36,9 @@ i386：		opkg install http://firmware.koolshare.cn/binary/KoolProxy/luci/luci-ap
 x86_64：	opkg install http://firmware.koolshare.cn/binary/KoolProxy/luci/luci-app-koolproxy_3.5.2-1_x86_64.ipk </br>
 
 ## 注意事项：
-1. 首次运行koolproxy的时候，保存并提交速度较慢，因为会生成证书。
+1. 首次运行koolproxy的时候，保存并提交速度较慢，因为会生成证书，更新规则等，提交完毕后可能看到透明代理未运行，需要稍等一会儿，重新进入koolproxy页面即可看到正常。
 2. 使用koolshare论坛fw867发布的LEDE固件的朋友，不建议安装此luci，虽然也能使用（需要卸载掉自带的koolproxy再安装），但是部分代码和原固件集成的有差别，建议使用F大固件的朋友仅仅更新二进制文件即可
-3. 此版本在网件WNDR4300V1(mips) OpenWrt Chaos Calmer 15.05.1上测试通过，其它机型暂时未经过测试，如果遇到问题，请到以下渠道进行反馈:
+3. 如果遇到问题，请到以下渠道进行反馈:
 * QQ群：https://jq.qq.com/?_wv=1027&k=445DYpV </br>
 * TG群：https://t.me/joinchat/AAAAAD-tO7GPvfOU131_vg
 
