@@ -27,11 +27,11 @@ http://koolshare.cn/thread-80772-1-1.html
 ## 开始安装：
 请使用cat /proc/cpuinfo查询自己路由器的cpu架构，注意ar系列基本都是mips，mtk的都是mipsel，然后根据自己的cpu架构选择对应的安装方式：</br>
 请使用putty或者其它SSH工具登陆到路由器，然后在联网状态下运行：</br>
-mips：		opkg install http://firmware.koolshare.cn/binary/KoolProxy/luci/luci-app-koolproxy_mips.ipk </br>
-mipsel：	opkg install http://firmware.koolshare.cn/binary/KoolProxy/luci/luci-app-koolproxy_mipsel.ipk </br>
-arm：		opkg install http://firmware.koolshare.cn/binary/KoolProxy/luci/luci-app-koolproxy_arm.ipk </br>
-i386：		opkg install http://firmware.koolshare.cn/binary/KoolProxy/luci/luci-app-koolproxy_i386.ipk </br>
-x86_64：	opkg install http://firmware.koolshare.cn/binary/KoolProxy/luci/luci-app-koolproxy_x86_64.ipk </br>
+mips：		opkg install http://firmware.koolshare.cn/binary/KoolProxy/luci/luci-app-koolproxy_3.5.2-1_mips.ipk </br>
+mipsel：	opkg install http://firmware.koolshare.cn/binary/KoolProxy/luci/luci-app-koolproxy_3.5.2-1_mipsel.ipk </br>
+arm：		opkg install http://firmware.koolshare.cn/binary/KoolProxy/luci/luci-app-koolproxy_3.5.2-1_arm.ipk </br>
+i386：		opkg install http://firmware.koolshare.cn/binary/KoolProxy/luci/luci-app-koolproxy_3.5.2-1_i386.ipk </br>
+x86_64：	opkg install http://firmware.koolshare.cn/binary/KoolProxy/luci/luci-app-koolproxy_3.5.2-1_x86_64.ipk </br>
 
 如果需要中文翻译，还需要运行</br>
 opkg install http://firmware.koolshare.cn/binary/KoolProxy/luci/luci-i18n-koolproxy-zh-cn.ipk
