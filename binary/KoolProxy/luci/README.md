@@ -33,9 +33,6 @@ arm：		opkg install http://firmware.koolshare.cn/binary/KoolProxy/luci/luci-app
 i386：		opkg install http://firmware.koolshare.cn/binary/KoolProxy/luci/luci-app-koolproxy_3.5.2-1_i386.ipk </br>
 x86_64：	opkg install http://firmware.koolshare.cn/binary/KoolProxy/luci/luci-app-koolproxy_3.5.2-1_x86_64.ipk </br>
 
-如果需要中文翻译，还需要运行</br>
-opkg install http://firmware.koolshare.cn/binary/KoolProxy/luci/luci-i18n-koolproxy-zh-cn.ipk
-
 ## 注意事项：
 1. 首次运行koolproxy的时候，保存并提交速度较慢，因为会生成证书。
 2. 使用koolshare论坛fw867发布的LEDE固件的朋友，不建议安装此luci，虽然也能使用（需要卸载掉自带的koolproxy再安装），但是部分代码和原固件集成的有差别，建议使用F大固件的朋友仅仅更新二进制文件即可
