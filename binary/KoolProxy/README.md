@@ -3,14 +3,14 @@
 * 使用本软件的风险由用户自行承担，在适用法律允许的最大范围内，对因使用本产品所产生的损害及风险，包括但不限于直接或间接的个人损害、商业赢利的丧失、贸易中断、商业信息的丢失或任何其它经济损失，KoolProxy.com 不承担任何责任。
 
 ### 二进制文件和规则下载固定地址
-https://koolproxy.com/downloads/i386\n
-https://koolproxy.com/downloads/x86_64\n
-https://koolproxy.com/downloads/arm\n
-https://koolproxy.com/downloads/mips\n
-https://koolproxy.com/downloads/mipsel\n
-https://kprule.com/koolproxy.txt\n
-https://kprule.com/1.dat\n
-https://kprule.com/user.txt\n
+https://koolproxy.com/downloads/i386</br>
+https://koolproxy.com/downloads/x86_64</br>
+https://koolproxy.com/downloads/arm</br>
+https://koolproxy.com/downloads/mips</br>
+https://koolproxy.com/downloads/mipsel</br>
+https://kprule.com/koolproxy.txt</br>
+https://kprule.com/1.dat</br>
+https://kprule.com/user.txt</br>
 ### 二进制文件和规则 github备份地址：
-二进制：https://github.com/koolproxy/koolproxy-bin\n
-规则：https://github.com/koolproxy/koolproxy_rules\n
+二进制：https://github.com/koolproxy/koolproxy-bin</br>
+规则：https://github.com/koolproxy/koolproxy_rules</br>
