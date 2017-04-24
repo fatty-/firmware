@@ -9,6 +9,8 @@ http://koolshare.cn/thread-64086-1-1.html
 koolproxy性能测试：
 http://koolshare.cn/thread-80772-1-1.html
 
+感谢失去的青春整理的luci-app-koolproxy
+https://github.com/openwrt-develop/luci-app-koolproxy
 
 ## 准备工作：
 <font color=red>
