@@ -1,7 +1,7 @@
 VERSION X1.1
 1 添加软件中心支持
-2 添加tproxy等模块支持
-3 中文界面支持
+2 添加tproxy等模块支持 （add by houzi-）
+3 中文界面支持 （translated by JSmonkey）
 4 移除升级固件需要关闭jffs分区
-5 修复R6400刷tomato丢mac的问题
+5 修复R6400刷tomato丢mac的问题 （fixed by xiaobao）
 6 简单刷机流程：1刷机，2格式化并挂载jffs分区，2访问191.168.1.1:80，然后ctrl + f5将会出现软件中心
