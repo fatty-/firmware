@@ -41,7 +41,7 @@ x86_64：	opkg install http://firmware.koolshare.cn/binary/KoolProxy/luci/luci-a
 3. 如果遇到问题，请到以下渠道进行反馈:
 * QQ群：https://jq.qq.com/?_wv=1027&k=445DYpV </br>
 * TG群：https://t.me/joinchat/AAAAAD-tO7GPvfOU131_vg
-
+4. mip和mipsel架构的路由器由于性能原因，开启https过滤后第一次进入https网页（规则里有的https过滤规则的网页），需要生成证书，速度较慢，第二次进入就没问题了。
 ## LUCI更新日志：
 2017年04月25日 0:31, koolproxy 3.5.2
 
