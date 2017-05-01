@@ -8,6 +8,14 @@
     3. 支持cpu，wifi温度显示；
     4. IPV6支持、石像鬼QOS
 
+1.9-update12.1：
+    1. 更改默认时区为东八区
+    2. 修复ddnspod不能更新ip
+    3. luci添加ssl支持
+    4. 增加LED配置
+    5. 删除多的USB打印服务
+    6. 添加samba支持
+
 ## 安装方法
     1.官方固件直接在web中上传对应机型的img后缀固件，刷机过程中路由器会自动重启。
     2.openwrt、lede固件上传sysupgrade.bin固件包，第一次刷写本固件请勿保留配置。
