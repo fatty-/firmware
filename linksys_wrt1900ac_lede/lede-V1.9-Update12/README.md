@@ -33,7 +33,8 @@
     默认WEB 192.168.1.1 用户名 root 密码 koolshare
 ## 技术支持
 
-BUG反馈：<http://koolshare.cn/forum-80-1.html>     LEDE内测体验交流QQ群：103366563 <http://shang.qq.com/wpa/qunwpa?idkey=9689c491e45fdb982da6dd5dc7bb7c8dbeba427e358e289103b26fd43ca77ad0>
+BUG反馈：<http://koolshare.cn/forum-80-1.html> <br />
+LEDE内测体验交流QQ群：103366563 <http://shang.qq.com/wpa/qunwpa?idkey=9689c491e45fdb982da6dd5dc7bb7c8dbeba427e358e289103b26fd43ca77ad0>
 
 ## 鸣谢
 	* 感谢fw867大大提供源码
