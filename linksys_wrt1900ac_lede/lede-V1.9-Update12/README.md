@@ -2,6 +2,7 @@
 ===================================
 
 ## 固件特性（1.9-update12）：
+1.9-update12
     0. linux 4.9.20内核
     1. 默认advancedtomato主题
     2. 集成常用软件：koolss、kcptun、koolproxy、webshell、koolddns、aria2、tranmision，netdata等
