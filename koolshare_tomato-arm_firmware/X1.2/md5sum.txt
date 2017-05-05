@@ -1,6 +1,7 @@
 3f0bbbd87f8f72533f20099cc42ede21  tomato-EA6500v2-KoolShare-AT-ARM-3.4-138-X1.2-AIO-64K.trx
 1b897cb28a8f45278dbc24c03f5decce  tomato-EA6700-KoolShare-AT-ARM-3.4-138-X1.2-AIO-64K.trx
 0583a23f8d0b160d5f7182b93ee63ec9  tomato-EA6900-KoolShare-AT-ARM-3.4-138-X1.2-AIO-64K.trx
+e17d5a1c4ca22826da1c12f865ef4feb  tomato-R1D-KoolShare-AT-ARM-3.4-138-X1.2-Custom-64K.trx
 79878010434eafd1adcd59a0f2070240  tomato-R6250-KoolShare-AT-ARM-3.4-138-X1.2-AIO-64K.trx
 8879df79c5abd5b2128080488a5d87e2  tomato-R6300v2-KoolShare-AT-ARM-3.4-138-X1.2-AIO-64K.trx
 c07a8e558ada351dadd152945400a20f  tomato-R6400-KoolShare-AT-ARM-3.4-138-X1.2-AIO-128K.trx
